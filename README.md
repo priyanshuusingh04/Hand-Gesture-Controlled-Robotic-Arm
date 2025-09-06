@@ -73,14 +73,10 @@ Glove (Flex Sensors) → Arduino UNO → ESP32 (TX) → Wireless → ESP32 (RX) 
 ## 📂 Repository Structure  
 
 Hand-Gestured-Mechanical-Arm/  
-│── code/                # Arduino IDE code (main program, libraries, etc.)  
-│── CAD/                 # SolidWorks / 3D model files  
-│── images/              # Project images / demo screenshots  
-│── README.md            # Project documentation (this file)  
-
-
----
-
+│── code/               
+│── CAD/                   
+│── images/             
+│── README.md            
 
 ---
 
