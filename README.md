@@ -51,7 +51,7 @@ It demonstrates a **hands-free control mechanism** that has potential applicatio
 ## 🔹 Demonstration Flow  
 ```plaintext
 Glove (Flex Sensors) → Arduino UNO → ESP32 (TX) → Wireless → ESP32 (RX) → Servo Motors → Robotic Arm
-
+```
 
 ---
 
@@ -78,7 +78,7 @@ Hand-Gestured-Mechanical-Arm/
 │── CAD/                   
 │── images/             
 │── README.md            
-
+```
 ---
 
 ## 🔹 Author  
